@@ -1,7 +1,7 @@
 buildscript {
     repositories {
         maven {
-            url 'https://dl.bintray.com/alfa-laboratory/maven-releases/'
+            url 'https://mvnrepository.com/artifact/'
         }
     }
     dependencies {
